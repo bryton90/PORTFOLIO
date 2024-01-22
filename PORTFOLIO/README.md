@@ -6,7 +6,8 @@
 - 🌱 Proficient in back-end technologies like JavaScript, Python, and C++<br/>
 - 👍 Experience in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
+</br>
 
 </div>
 
