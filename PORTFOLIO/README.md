@@ -160,10 +160,7 @@
   <tr>
     <td>
       
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
+  - [😅 Random Dad jokes] (#-random-dad-jokes)
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
@@ -186,6 +183,7 @@ https://acetduiservicesurvey.com/
 
 
 ## My personal values and work ethic
+
 ✨ I want to build strong relationships with my clients.
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
