@@ -133,8 +133,6 @@
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
-
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
@@ -144,17 +142,16 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{bryton90}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
-<a href="mailto:kingalexandros8888@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 <a href="https://t.me/princegoblintech"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
 <a href="https://ru.stackoverflow.com/users/371584/princegoblintech"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="en.stackoverflow profile"></a>
 <a href="https://stackoverflow.com/users/13531449/princegoblintech"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
-<a href="https://askubuntu.com/users/1561126/princegoblintech"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
 <a href="https://freelance.habr.com/freelancers/PrinceGoblinTech"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
 <a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Olde Coders"></a>
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
