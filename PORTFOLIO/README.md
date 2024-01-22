@@ -160,8 +160,7 @@
   <tr>
     <td>
 
-- [Thanks!]     
-  
+-      
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
