@@ -160,12 +160,11 @@
   <tr>
     <td>
 
--      
-
+- [Feel free to check out](#feel-free-to-check-out)   
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
--
+- [Adios!](#adios)
     </td>
     <td>    
       <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
