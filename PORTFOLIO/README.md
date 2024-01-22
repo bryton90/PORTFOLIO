@@ -10,6 +10,8 @@
 
 </div>
 
+
+
 <table>
   <tr>
     <td>
@@ -27,8 +29,7 @@
     </td>
     <td>    
       <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
+      
     </td>
   </tr>
 </table>
