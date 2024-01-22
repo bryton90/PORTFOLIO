@@ -160,8 +160,9 @@
   <tr>
     <td>
 
-- [Feel free to check out:](#-feel-free-to-check-out)  
-    -[😅 Random Dad Jokes](#-random-dad-jokes)
+- [Feel free to check out:](#-feel-free-to-check-out) 
+
+    - [😅 Random Dad Jokes](#-random-dad-jokes)
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
