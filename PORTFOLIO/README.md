@@ -131,7 +131,7 @@
 
 
 <p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryton90&show_icons=true&locale=en&layout=compact" width="40%" alt="bryton90" /></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryton90&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="40%" alt="bryton90" /></a> 
 </p>
 <a href="https://github.com/bryton90?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bryton90&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@bryton's trophy stats"/></a>
 </p>
