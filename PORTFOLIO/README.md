@@ -211,6 +211,7 @@ https://acetduiservicesurvey.com/
 ✨ Payment gateway integration  ✔Stripe, ✔PayPal
 
 # Reach out to me #
+
 <a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
 Please visit https://patience.onrender.com/
@@ -218,6 +219,6 @@ Please visit https://patience.onrender.com/
 To contact me:
 brytonmccain@gmail.com
 
-![](https://github.com/bryton90/bryton90.github.io/blob/master/screenshots/screenshot.gif?raw=true)
+<a href="https://github.com/bryton90" target="_blank">![](https://github.com/bryton90/bryton90.github.io/blob/master/screenshots/screenshot.gif?raw=true)</a>
 
 
