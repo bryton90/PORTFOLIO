@@ -148,7 +148,7 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
-<a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
+<a href="mailto:brytonmccain@gmail.com"><img src=".BRYTON-main/assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
 Please visit https://patience.onrender.com/
 
