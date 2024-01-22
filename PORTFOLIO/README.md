@@ -159,12 +159,13 @@
 <table>
   <tr>
     <td>
-      
-  - [😅 Random Dad jokes] (#-random-dad-jokes)
+
+- [Thanks!]     
+  
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [🔝 Top Contributed Repo](#-top-contributed-repo)
     - [😂 Random Dev Meme](#-random-dev-meme)
-
+-
     </td>
     <td>    
       <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
