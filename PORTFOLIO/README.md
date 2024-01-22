@@ -217,7 +217,8 @@ https://acetduiservicesurvey.com/
 Please visit https://patience.onrender.com/
 
 To contact me:
-brytonmccain@gmail.com
+Email: brytonmccain@gmail.com
+LinkedIn: https://www.linkedin.com/in/bryton-kilonzo-983171170/
 
 <a href="https://github.com/bryton90" target="_blank">![](https://github.com/bryton90/bryton90.github.io/blob/master/screenshots/screenshot.gif?raw=true)</a>
 
