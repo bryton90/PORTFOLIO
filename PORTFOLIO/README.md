@@ -1,76 +1,16 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Hello!👋 Welcome #
+# Who am I? #
 <div>
 <br/>
 - 🔭 Back-end developer with 4+ years of experience designing and building scalable, high-performance applications<br/>
 - 🌱 Proficient in back-end technologies like JavaScript, Python, and C++<br/>
 - 👍 Experience in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
-</br>
+- 😍 Developed some AI Apps and integrated with ChatGPT.</br>
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
 
-
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-
-    </td>
-    <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      
-    </td>
-  </tr>
-</table>
-
-# Welcome!
-  
-
-<a href="http://au-portfolio.great-site.net" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-
-https://acetduiservicesurvey.com/
-  
-
-
-
-## My personal values and work ethic
-✨ I want to build strong relationships with my clients.
-
-✨ I believe that a good working relationship is built on mutual trust and respect.
-
-✨ I value open communication and strive to keep you updated on progress every step of the way.
-
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
-
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
-
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
-       
-✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
-          
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
-         
-✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
-         
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
-         
-✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
-         
-✨ Payment gateway integration  ✔Stripe, ✔PayPal
 
 # Main Skills #
 
@@ -88,6 +28,7 @@ https://acetduiservicesurvey.com/
 
 
 # 💻 My favorite tools and technologies
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -214,6 +155,62 @@ https://acetduiservicesurvey.com/
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+<table>
+  <tr>
+    <td>
+      
+- [Welcome!](#AuWaiLun-welcome)
+  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
+  - [Rapidfire](#rapidfire)
+  - [Languages and Tools](#languages-and-tools)
+- [📊 GitHub Stats:](#-github-stats)
+    - [🏆 GitHub Trophies](#-github-trophies)
+    - [✍️ Random Dev Quote](#️-random-dev-quote)
+    - [🔝 Top Contributed Repo](#-top-contributed-repo)
+    - [😂 Random Dev Meme](#-random-dev-meme)
+
+    </td>
+    <td>    
+      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      
+    </td>
+  </tr>
+</table>
+
+<a href="http://au-portfolio.great-site.net" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
+https://acetduiservicesurvey.com/
+  
+
+
+
+## My personal values and work ethic
+✨ I want to build strong relationships with my clients.
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+       
+✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+          
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
+         
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
+         
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+         
+✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
+         
+✨ Payment gateway integration  ✔Stripe, ✔PayPal
 
 # Reach out to me #
 <a href="mailto:brytonmccain@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
