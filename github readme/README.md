@@ -144,7 +144,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@bryton90"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://wakatime.com/@bryton90"><img src="https://wakatime.com/badge/user/acf24e5a-ce56-4e2b-b189-cf6981353bbb.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/bryton90?tab=following"><img src="https://img.shields.io/github/stars/bryton90?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/bryton90?tab=followers"><img src="https://img.shields.io/github/followers/bryton90?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
