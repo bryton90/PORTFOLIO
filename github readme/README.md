@@ -169,7 +169,7 @@
 - [Adios!](#-adios)
     </td>
     <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/bryton90/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       
     </td>
   </tr>
